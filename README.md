@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheRobertLing, thought Robert Ling is just a pseudonym. Online privacy 👍.
+- 👋 Hi, I’m @TheRobertLing, thought Robert Ling is just an alias that a friend gave me.
 - 👀 I’m interested in ... not much really. I live a pretty boring life outside of university and work.
 - 🌱 I’m currently learning Vue.js and Express.js
 - 💞️ I’m looking to collaborate on ... not much at this point really.
