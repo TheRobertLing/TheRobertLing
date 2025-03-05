@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @TheRobertLing, thought Robert Ling is just an alias that a friend gave me.
-- 👀 I’m interested in ... not much really. I live a pretty boring life outside of university and work.
+- 👀 I’m interested in TF2. Am thinking of picking up the electric guitar. That might be pretty cool
 - 🌱 I’m currently learning Vue.js and Express.js. Though I'm thinking of switching to Java for a backend. Java is a pretty neat language
-- 💞️ I’m looking to collaborate on ... not much at this point really.
 - 📫 How to reach me: lingrobert929@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I would really like to have fun fact but my life is so unbelievably well described by the word 'mediocrity' that there is nothing that I can think of
 
 <!---
