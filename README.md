@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheRobertLing, thought Robert Ling is just an alias that a friend gave me.
+- 👋 Hi, I’m @TheRobertLing, thought Robert Ling is just an alias that a friend gave me. I don't imagine it's that hard to figure out what my actual name is.
 - 👀 I’m interested in building language learning software and contributing to open source projects
 - 🌱 I’m currently learning Vue.js and Express.js. Though I'm thinking of switching to Java for a backend. Java is a pretty neat language.
 - 📫 How to reach me: lingrobert929@gmail.com
