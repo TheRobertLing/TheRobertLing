@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @TheRobertLing, thought Robert Ling is just an alias that a friend gave me. I don't imagine it's that hard to figure out what my actual name is.
+- 👋 Hi, I’m @TheRobertLing, thought Robert Ling is just an alias that a friend gave me. I don't imagine it's that hard to figure out what my actual name is from just the things on my profile
 - 👀 I’m interested in building language learning software and contributing to open source projects
-- 🌱 I’m currently learning how to write ebic frontend code and design ebic UI's. Vue.js is currently my go-to framework. 
 - 📫 How to reach me: lingrobert929@gmail.com
 - ⚡ Fun fact: I would really like to have fun fact but my life is so unbelievably well described by the word 'mediocrity' that there is nothing that I can think of.
 
